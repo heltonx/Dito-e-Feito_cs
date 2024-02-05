@@ -10,12 +10,19 @@ Dito 1) Hellow World
 using System;
 
 namespace general {
+
 		class program {
+  
 			static void Main (string[] args)
+   
 			{
+   
 				Console.WriteLine("Hello World");
+    
 			}
+   
 		}	
+  
 }
 
 Compile:
